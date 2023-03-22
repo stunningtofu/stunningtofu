@@ -1,7 +1,7 @@
 ---
 title: "Cara memasang Zsh sebagai default shell"
 date: 2023-03-22T14:26:17+07:00
-draft: true
+draft: false
 ---
 
 # Cara memasang Zsh sebagai default shell
