@@ -1,12 +1,10 @@
-# Hi, I'm stunningtofu 👋
-
-![Profile Banner](https://github.com/stunningtofu.png)
+# Hi, I'm Stunningtofu 👋
 
 > Crafting elegant solutions, one commit at a time — Devops engineer • lifelong learner • open-source enthusiast
 
 [![Website](https://img.shields.io/badge/website-portfolio-informational)](https://your-website.example)
-[![Email](https://img.shields.io/badge/email-you%40example.com-blue)](mailto:johanputrarahmadan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue)](https://linkedin.com/in/johan-putra-rahmadan)
+[![Email](https://img.shields.io/badge/email-johanputrarahmadan%40gmail.com-blue)](mailto:johanputrarahmadan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue)](https://www.linkedin.com/in/johan-putra-rahmadan/)
 
 ---
 
