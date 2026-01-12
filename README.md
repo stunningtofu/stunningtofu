@@ -1,17 +1,11 @@
-# Hi, I'm Stunningtofu 👋
+# Hi, I'm stunningtofu 👋
 
 > Crafting elegant solutions, one commit at a time — Devops engineer • lifelong learner • open-source enthusiast
 
-[![Website](https://img.shields.io/badge/website-portfolio-informational)](https://your-website.example)
-[![Email](https://img.shields.io/badge/email-johanputrarahmadan%40gmail.com-blue)](mailto:johanputrarahmadan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue)](https://www.linkedin.com/in/johan-putra-rahmadan/)
-
----
 
 ## About Me
 I build reliable, maintainable, and user-focused software. I enjoy working on full-stack web applications, designing clean APIs, and contributing to open-source. I balance product thinking with technical craft to deliver real value.
 
-- 🔭 Currently working on: a privacy-first analytics platform (or replace with your current project)
 - 🌱 Learning: advanced distributed systems and machine learning model deployment
 - 👯 Open to: collaboration on open-source, mentoring, and new remote opportunities
 - ⚡ Fun: coffee, puzzles, and pixel art
@@ -33,17 +27,7 @@ I build reliable, maintainable, and user-focused software. I enjoy working on fu
 - Observability & Monitoring: Prometheus, Grafana, Loki
 - Secrets & Configuration: HashiCorp Vault
 - Reliability & SRE Practices: autoscaling, chaos engineering  
-- Security & Compliance: IaC scanning (terrascan, tfsec), IAM best practices, container vulnerability scanning  
 - Cost Optimization & Governance: cost monitoring, tagging strategies, reserved/spot instances
-
----
-
-## Featured Projects
-- [project-one](https://github.com/stunningtofu/project-one) — Short description: a modern web app that does X, built with Next.js + TypeScript.
-- [project-two](https://github.com/stunningtofu/project-two) — Short description: a CLI tool that automates Y and saves developers time.
-- [project-three](https://github.com/stunningtofu/project-three) — Short description: an open-source library for Z used by N projects.
-
-(Prefer to highlight 3–6 projects. Replace the above links & descriptions with your favorites.)
 
 ---
 
@@ -54,30 +38,8 @@ I build reliable, maintainable, and user-focused software. I enjoy working on fu
 
 ---
 
-## Writing & Talks
-- Blog: [your-blog.example](https://your-blog.example)
-- Talks: "Scaling Microservices" — DevConf 2025 (replace with your talks)
-
----
-
 ## Let's Connect
-- Email: you@example.com
-- Website: https://your-website.example
-- LinkedIn: https://linkedin.com/in/your-profile
-- Twitter: https://twitter.com/yourhandle
+- Email: johanputrarahmadan@gmail.com
+- Website: https://dev.to/johanputra
+- LinkedIn: https://www.linkedin.com/in/johan-putra-rahmadan/
 - GitHub: https://github.com/stunningtofu
-
----
-
-## Fun Facts
-- Pronouns: they/them (replace if different)
-- Based in: Your City, Country (timezone)
-- Outside code: gardening, photography, indie games
-
----
-
-## GitHub Stats (optional)
-![stunningtofu's GitHub stats](https://github-readme-stats.vercel.app/api?username=stunningtofu&show_icons=true&theme=radical)
-
----
-Thanks for stopping by — I'm always open to interesting projects and collaborations. 👋
